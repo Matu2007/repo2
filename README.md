@@ -1,2 +1,2 @@
 # repo2
-asd
+Trabajo de practica de GitHub
